@@ -2,7 +2,7 @@
 Follow the awesome [Adi Bronshtein](https://medium.com/towards-data-science/simple-and-multiple-linear-regression-in-python-c928425168f9) exploring and analyzing data. 
 
 ### Dataset
-* Boston House Pricing
+* Boston House Price
 
    Dataset is loaded from **sklearn** *datasets* library. 
    
