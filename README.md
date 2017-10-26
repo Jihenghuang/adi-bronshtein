@@ -3,5 +3,7 @@ Follow the awesome [Adi Bronshtein](https://medium.com/towards-data-science/simp
 
 ### Dataset
 * Boston House Pricing
+
    Dataset is loaded from **sklearn** *datasets* library. 
+   
    It seems UC Irvine doesn't host the original dataset anymore. But they still have lots of other datasets for exploration: http://archive.ics.uci.edu/ml/datasets.html
