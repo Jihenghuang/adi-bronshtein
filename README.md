@@ -1,5 +1,5 @@
 # Adi Bronshtein
-Follow the awesome [Adi Bronshtein](https://medium.com/towards-data-science/simple-and-multiple-linear-regression-in-python-c928425168f9)'s examples exploring and analyzing data. 
+Follow the awesome [Adi Bronshtein](https://medium.com/towards-data-science/simple-and-multiple-linear-regression-in-python-c928425168f9) exploring and analyzing data. 
 
 ### Dataset
 * Boston House Pricing
